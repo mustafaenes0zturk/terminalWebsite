@@ -26,7 +26,6 @@ async function getExperiences(): Promise<Experience[]> {
       const { data } = matter(fileContent)
       const stats = await fs.stat(filePath)
       
-      // Skip if required fields are missing
       if (!data.title || !data.company || !data.period || !data.description) {
         console.warn(`Missing required fields in ${filename}`)
         return null
@@ -43,7 +42,6 @@ async function getExperiences(): Promise<Experience[]> {
     })
   )
   
-  // Filter out null values and sort by creation time (newest first)
   return experiences
     .filter((exp): exp is Experience => exp !== null)
     .sort((a, b) => b.createdAt - a.createdAt)

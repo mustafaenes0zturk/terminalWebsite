@@ -15,7 +15,7 @@ export async function POST(req: Request) {
 
     const mailOptions = {
       from: process.env.EMAIL_USER,
-      to: process.env.EMAIL_USER, // You'll receive emails at the same address
+      to: process.env.EMAIL_USER,
       subject: `New Contact Form Message from ${name}`,
       text: `
         Name: ${name}

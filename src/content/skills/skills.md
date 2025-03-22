@@ -1,7 +1,19 @@
 ---
 title: 'Skills'
-order: 1
+skills:
+  - name: 'C#'
+    icon: 'SiCsharp'
+  - name: 'DevExpress'
+    icon: 'SiDotnet'
+  - name: 'Unity'
+    icon: 'SiUnity'
+  - name: 'SQL'
+    icon: 'SiMicrosoftsqlserver'
+  - name: 'Photoshop'
+    icon: 'SiAdobephotoshop'
+  - name: 'Entity Framework'
+    icon: 'SiDotnet'
+  - name: 'Responsive Design'
+    icon: 'SiTailwindcss'
 ---
-
-`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `HTML5` `CSS3` `Redux` `Material UI` `Responsive Design` `Web Animations` `SASS`
 

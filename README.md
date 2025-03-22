@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Terminal Tarzı Portfolyo Websitesi
 
-## Getting Started
+Bu proje, [Next.js](https://nextjs.org) ve Tailwind CSS kullanılarak geliştirilmiş, terminal görünümlü modern bir portfolyo websitesidir. Site, profesyonel deneyimlerimi, projelerimi ve yeteneklerimi interaktif bir terminal arayüzü üzerinden sergileyen benzersiz bir tasarıma sahiptir.
 
-First, run the development server:
+## Özellikler
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- 🖥️ Terminal tarzı arayüz
+- 📱 Tam responsive tasarım
+- 🎯 İnteraktif navigasyon
+- 📂 Proje vitrini
+- 💼 Deneyim zaman çizelgesi
+- 🛠️ Yetenekler bölümü
+- 📬 İletişim formu
+- 📱 Mobil uyumlu görünüm
+
+
+## Proje Yapısı
+
+```
+src/
+├── app/
+│   ├── about/      # Hakkımda bölümü
+│   ├── projects/   # Projeler vitrini
+│   ├── skills/     # Yetenekler ve teknolojiler
+│   ├── experience/ # Profesyonel deneyim
+│   └── contact/    # İletişim bilgileri
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Kurulum
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Projeyi klonlayın
+2. `.env.example` dosyasını `.env` olarak kopyalayın
+3. `.env` dosyasındaki değişkenleri kendi Gmail bilgilerinizle güncelleyin:
+   - EMAIL_USER: Gmail adresiniz
+   - EMAIL_PASS: Gmail uygulama şifreniz
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Proje Görselleri
 
-## Learn More
+### Örnek Sayfalar
+![Ana Sayfa](./home.png)
+![Hakkimda](./hakkimda.png)
+![Iletisim](./contact.png)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Mobil Görünüm
+![Mobil](./mobil.png)

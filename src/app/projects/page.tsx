@@ -46,7 +46,6 @@ async function getProjects(): Promise<Project[]> {
     })
   )
   
-  // Filter out null values and sort by creation time (newest first)
   return projects
     .filter((proj): proj is Project => proj !== null)
     .sort((a, b) => b.createdAt - a.createdAt)

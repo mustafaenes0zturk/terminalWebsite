@@ -1,12 +1,11 @@
 ---
-title: "Terminal Portfolio"
-description: "A unique portfolio website with a terminal-like interface built using Next.js and Tailwind CSS."
+title: "Kayıt Programı"
+description: "Stajda yaptığım proje."
 technologies:
-  - "Next.js"
-  - "TypeScript"
-  - "Tailwind CSS"
-  - "React"
-github: "https://github.com/mustafaenes0zturk/terminal-portfolio"
-demo: "https://terminal-portfolio.vercel.app"
+  - "C#"
+  - "DevExpress"
+  - "SQL"
+github: "https://github.com/mustafaenes0zturk/kayitProgrami"
+demo: "https://github.com/mustafaenes0zturk/kayitProgrami"
 featured: true
 --- 

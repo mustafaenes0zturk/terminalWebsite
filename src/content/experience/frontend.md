@@ -1,12 +1,8 @@
 ---
-title: "Frontend Developer"
-company: "Creative Agency"
-location: "Remote"
-period: "2021 - 2022"
+title: "Bilgisayar Mühendisi Stajyer"
+company: "Metal Matris"
+location: "Kayseri"
+period: "2024-Temmuz"
 description: |
-  - Created responsive web applications using React and Tailwind CSS
-  - Developed custom animations and interactive user interfaces
-  - Integrated content management systems and analytics tools
-  - Collaborated with designers to implement pixel-perfect designs
-  - Maintained and updated existing client websites
+  - Staj sürecinde Windows Forms ve C# kullanarak kapsamlı bir personel takip ve bilgisayar kayıt uygulaması geliştirdim; bu süreçte DevExpress bileşenlerini kullanarak modern ve kullanıcı dostu bir arayüz oluşturdum, form tasarımı ve işlevselliği üzerinde çalıştım, kayıt işlemlerini optimize ederek performansı artırdım, hata ayıklama ve test işlemleri gerçekleştirerek kullanıcı deneyimini iyileştirdim ve tüm bu süreçte Visual Studio, .NET Framework, DevExpress, Git ve GitHub gibi araçları etkin bir şekilde kullandım.
 --- 
