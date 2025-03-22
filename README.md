@@ -21,7 +21,6 @@ src/
 ├── app/
 │   ├── about/      # Hakkımda bölümü
 │   ├── projects/   # Projeler vitrini
-│   ├── skills/     # Yetenekler ve teknolojiler
 │   ├── experience/ # Profesyonel deneyim
 │   └── contact/    # İletişim bilgileri
 ```
