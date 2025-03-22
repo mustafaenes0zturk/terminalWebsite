@@ -36,9 +36,9 @@ src/
 ## Proje Görselleri
 
 ### Örnek Sayfalar
-![Ana Sayfa](./home.png)
-![Hakkimda](./hakkimda.png)
-![Iletisim](./contact.png)
+![Ana Sayfa](./public/home.png)
+![Hakkimda](./public/hakkimda.png)
+![Iletisim](./public/contact.png)
 
 ### Mobil Görünüm
-![Mobil](./mobil.png)
+![Mobil](./public/mobil.png)
