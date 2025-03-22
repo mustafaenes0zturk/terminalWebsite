@@ -1,6 +1,6 @@
 # Terminal Tarzı Portfolyo Websitesi
 
-Bu proje, [Next.js](https://nextjs.org) ve Tailwind CSS kullanılarak geliştirilmiş, terminal görünümlü modern bir portfolyo websitesidir. Site, profesyonel deneyimlerimi, projelerimi ve yeteneklerimi interaktif bir terminal arayüzü üzerinden sergileyen benzersiz bir tasarıma sahiptir.
+Bu proje, Next.js ve Tailwind CSS kullanılarak geliştirilmiş, terminal görünümlü modern bir portfolyo websitesidir. Site, profesyonel deneyimlerimi, projelerimi ve yeteneklerimi interaktif bir terminal arayüzü üzerinden sergileyen benzersiz bir tasarıma sahiptir.
 
 ## Özellikler
 
